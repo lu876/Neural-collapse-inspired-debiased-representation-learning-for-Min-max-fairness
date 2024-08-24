@@ -1,5 +1,5 @@
 # Neural-collapse-inspired-debiased-representation-learning-for-Min-max-fairness
-This repository contains the implementation code for our work presented at the KDD conference. Follow the steps below to set up the environment, prepare the data, and reproduce our experiments.
+This repository contains the implementation code for our work presented at the KDD24 conference. Follow the steps below to set up the environment, prepare the data, and reproduce our experiments.
 
 ## Environment Setup
 
