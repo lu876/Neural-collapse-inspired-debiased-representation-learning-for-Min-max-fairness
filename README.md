@@ -95,4 +95,4 @@ Run the cells in the notebook to reproduce the experiments.
   python Ours_NLI.py
   ```
 
-### To Do: Uploading training weight to reproduce our Neural Collapse results
+
